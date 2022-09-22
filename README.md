@@ -2,7 +2,7 @@
 
 ![preview](./.github/preview.png)
 
-[Clique aqui para acessar](Prdsilva80.github.io/relogio/)
+[Clique aqui para acessar](https://prdsilva80.github.io/relogio/)
 
 ## 🛠️ Tecnologias
 
