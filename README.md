@@ -2,13 +2,11 @@
 
 ![preview](./.github/preview.png)
 
-[Clique aqui para acessar](https://prdsilva80.github.io/relogio/)
+🔗  [Clique aqui para acessar](https://prdsilva80.github.io/relogio/)
 
 ## 🛠️ Tecnologias
 
-- HTML
-- CSS
-- JAVASCRIPT
+![preview](./.github/html.svg) ![preview](./.github/css.svg) ![preview](./.github/javascript.svg) ![preview](./.github/git.svg)
 
 ## 👨‍🎓 O que aprendi
 
@@ -16,6 +14,6 @@
 - Como usar as sessões do CSS para dar corpo ao projeto
 - Entendo melhor como todas as ferramentas trabalham
 
-## 🔗 Contato
+## 📧 Contato
 
 - probertos717@gmail.com
